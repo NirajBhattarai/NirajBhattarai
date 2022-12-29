@@ -1,7 +1,7 @@
 ## About Me
 Hi 👋, This is Niraj Bhattarai. Software Engineer having good hands on Soldiity,Java,JavaScript,AWS S3,AWS EBS,AWS Lamdha,CloudFormation,Spring,NodeJs.
 
-I Ocassionally blog and twee about new features i learned. 
+I Ocassionally blog and tweet about new features i learned. 
 
 ### Things I am passionate about
 
